@@ -1,88 +1,64 @@
-# Hi, I'm Gautham V Krishna 👋
+<div align="center">
 
-🎓 MCA (Generative AI) Student  
-🤖 Aspiring Machine Learning / Generative AI Engineer  
-💻 Passionate about building practical, production-oriented systems  
+  <img src="https://octodex.github.com/images/securitocat.png" alt="SecuritOcat" width="180"/>
+  <br><br>
 
----
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gautham+V+Krishna)
 
-## 👨‍💻 About Me
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flameastro&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+  </div>
 
-I am an MCA student specializing in **Generative AI**, with strong interest in **machine learning, deep learning, and applied AI systems**.  
-I focus on **understanding problems deeply, fixing real-world code issues, and building end-to-end solutions** rather than only theoretical models.
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameastro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </div>
 
-I am actively preparing for **industry roles and internships** in Machine Learning, Data Science, and AI Engineering.
+  <br>
 
----
+  <img src="https://github-profile-trophy.vercel.app/?username=Gauthamkrishna121&theme=github_dark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 
-## 🔭 What I’m Currently Working On
+</div>
 
-- Customer Churn Prediction System (end-to-end ML pipeline)
-- Practical ML coding challenges and debugging-focused projects
-- Research-oriented learning in Generative AI and Transformers
-- Improving system design and model evaluation skills
+# 👨🏻‍💻 About Me
 
----
+🎓 MCA (Generative AI) Student
+🤖 Aspiring Machine Learning / Generative AI Engineer
+💻 Passionate about building practical, production-oriented systems
 
-## 🌱 Currently Learning
 
-- Advanced Machine Learning & Deep Learning
-- Generative AI (Transformers, Diffusion, LLMs)
-- Model optimization and evaluation
-- Scikit-learn, TensorFlow, PyTorch
-- Clean code, debugging, and reproducibility
 
----
+``` json
+{
+    "name": "Gabriel Goulart",
+    "pronouns": "He/Him",
+    "title": "Web Developer",
+    "focus": "HTML & CSS [Front-End]",
+    "currently": "Creating Websites",
+    "learning": "Overview of study"
+}
+```
 
 ## 🛠️ Tech Stack
 
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
 
-### Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+## 🧰 Tools I Use
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Figma](https://skillicons.dev/icons?i=figma)
 
----
+<div align="center">
+  <br>
 
-## 📊 GitHub Stats
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gauthamkrishna121&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauthamkrishna121&layout=compact)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauthamkrishna121)
-
----
-
-## 📌 Featured Projects
-
-- 🔹 **Customer Churn Prediction System** – ML pipeline with preprocessing, modeling, and evaluation  
-- 🔹 **MATLAB Data Analysis Projects** – Data visualization and debugging-focused scripts  
-- 🔹 **Machine Learning Practice Repositories** – Fixing broken code and explaining improvements  
-
-(📌 Pin these repositories on your GitHub profile)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Gauthamkrishna121
-- LinkedIn: https://www.linkedin.com/in/gautham-v-krishna-0a7306302/
-- Email: gauthamvkrishna@zohomail.in
-
----
-
-⭐ *Always interested in learning, collaborating, and solving real-world problems with AI.*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gauthamkrishna121&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
