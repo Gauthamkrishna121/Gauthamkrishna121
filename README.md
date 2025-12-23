@@ -56,8 +56,8 @@ I am actively preparing for **industry roles and internships** in Machine Learni
 
 ## 📊 GitHub Stats
 
-![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauthamkrishna121&layout=compact)
 
 ---
 
