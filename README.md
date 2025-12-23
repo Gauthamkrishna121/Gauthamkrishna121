@@ -13,11 +13,6 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameastro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
   </div>
-
-  <br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Gauthamkrishna121&theme=github_dark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
 </div>
 
 # 👨🏻‍💻 About Me
@@ -26,15 +21,13 @@
 🤖 Aspiring Machine Learning / Generative AI Engineer
 💻 Passionate about building practical, production-oriented systems
 
-
-
 ``` json
 {
-    "name": "Gabriel Goulart",
+    "name": "Gautham V krishna",
     "pronouns": "He/Him",
-    "title": "Web Developer",
+    "title": "Developer",
     "focus": "HTML & CSS [Front-End]",
-    "currently": "Creating Websites",
+    "currently": "pursuing Master's in Computer Application",
     "learning": "Overview of study"
 }
 ```
