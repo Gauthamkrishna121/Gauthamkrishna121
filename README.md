@@ -63,7 +63,7 @@ I am actively preparing for **industry roles and internships** in Machine Learni
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauthamkrishna121)
 
 ---
 
