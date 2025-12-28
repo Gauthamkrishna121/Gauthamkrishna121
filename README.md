@@ -1,35 +1,45 @@
 <div align="center">
 
-  <img src="https://octodex.github.com/images/securitocat.png" alt="SecuritOcat" width="180"/>
+  <!-- Octocat Image -->
+  <img src="https://octodex.github.com/images/securitocat.png" width="180" alt="SecuritOcat"/>
   <br><br>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gautham+V+Krishna)
+  <!-- Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi,+I'm+Gautham+V+Krishna" />
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flameastro&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
-  </div>
+  <br><br>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauthamkrishna121&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-  </div>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauthamkrishna121&theme=github_dark&hide_border=true" />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauthamkrishna121&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
 </div>
+
+---
 
 # 👨🏻‍💻 About Me
 
-🎓 MCA (Generative AI) Student
-🤖 Aspiring Machine Learning / Generative AI Engineer
-💻 Passionate about building practical, production-oriented systems
+🎓 MCA (Generative AI) Student  
+🤖 Aspiring Machine Learning / Generative AI Engineer  
+💻 Passionate about building practical, production-oriented systems  
 
-``` json
+```json
 {
-    "name": "Gautham V krishna",
-    "pronouns": "He/Him",
-    "title": "Developer",
-    "focus": "HTML & CSS [Front-End]",
-    "currently": "pursuing Master's in Computer Application",
-    "learning": "Overview of study"
+  "name": "Gautham V Krishna",
+  "pronouns": "He/Him",
+  "role": "Developer",
+  "focus": "Front-End & AI Foundations",
+  "education": "MCA (Generative AI)",
+  "currently_learning": "Machine Learning, Deep Learning, System Design"
 }
+
 ```
 
 ## 🛠️ Tech Stack
