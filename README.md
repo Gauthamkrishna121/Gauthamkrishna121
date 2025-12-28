@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
   <!-- GitHub Streak -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauthamkrishna121&theme=github_dark&hide_border=true" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauthamkrishna121&theme=github_dark&hide_border=true" />
 
   <br><br>
 
@@ -39,6 +39,7 @@
   "education": "MCA (Generative AI)",
   "currently_learning": "Machine Learning, Deep Learning, System Design"
 }
+
 
 ```
 
