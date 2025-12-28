@@ -6,7 +6,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gautham+V+Krishna)
 
   <div align="center">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+    <img src="https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=flameastro&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
   </div>
 
