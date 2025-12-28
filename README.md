@@ -13,8 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gauthamkrishna121&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauthamkrishna121&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  
+  <!-- <img src="https://streak-stats.demolab.com?user=Gauthamkrishna121&theme=github-dark&hide_border=true" /> "Git Api Issue" -->
   <br><br>
 
   <!-- Top Languages -->
